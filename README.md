@@ -1,10 +1,12 @@
-## joining.team
+# joining.team
 
 
-#### Why is having a awesome onboarding process for new employees critical?
+### Why is having a awesome onboarding process for new employees critical?
 
 - [Companies lose 25% of all new employees in the first one year.](https://blog.capabiliti.co/employee-onboarding-facebook-google-apple/)
 
+
+### Companies and their onboarding?
 
 Company | Onboarding Information | Notes
 --- | --- | ---
