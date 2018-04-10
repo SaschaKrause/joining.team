@@ -5,8 +5,15 @@
 
 - [Companies lose 25% of all new employees in the first one year.](https://blog.capabiliti.co/employee-onboarding-facebook-google-apple/)
 
+---
 
-### Companies and their onboarding?
+### General onboarding resources
+
+- [How To Set Up Trello For New Employee Onboarding](https://blog.trello.com/new-employee-onboarding-best-practices-for-new-hires)
+
+---
+
+### Companies and their onboarding strategies
 
 Company | Onboarding Information | Notes
 --- | --- | ---
