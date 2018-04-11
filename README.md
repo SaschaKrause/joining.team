@@ -10,6 +10,7 @@
 ### General onboarding resources
 
 - [How To Set Up Trello For New Employee Onboarding](https://blog.trello.com/new-employee-onboarding-best-practices-for-new-hires)
+- [A Systematic Approach to New Employee Onboarding](https://activecollab.com/blog/growth/systematic-approach-to-new-employee-onboarding)
 
 ---
 
@@ -17,5 +18,6 @@
 
 Company | Onboarding Information | Notes
 --- | --- | ---
-Airbnb | [https://blog.cultureamp.com/how-airbnb-is-building-its-culture-through-belonging] | .
-Google | [https://blog.obie.ai/eight-things-google-does-to-onboard-their-new-hires-1faeda42153f] | .
+Airbnb | - [How Airbnb is Building its Culture Through Belonging](https://blog.cultureamp.com/how-airbnb-is-building-its-culture-through-belonging) | .
+Google | - [Eight Things Google Does to Onboard their New Hires](https://blog.obie.ai/eight-things-google-does-to-onboard-their-new-hires-1faeda42153f) | .
+Netflix | - [Insights from an Engineer](https://blog.obie.ai/eight-things-google-does-to-onboard-their-new-hires-1faeda42153f) | .
