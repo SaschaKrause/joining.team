@@ -43,13 +43,15 @@ Twitter | [What is the on-boarding process for new employees at Twitter?](https:
 
 ## Conclusion
 
+After reviewing all above materials of how other successful companies are doing their onboarding and how experts in this field see onboarding in general comes now a conclusion of what exactly companies should do to make onboarding new employee a success.
+
 ### Timeline structure
 
 Timeline | Goal
 --- | ---
 after contract signed | make hires feel that signing the contract was the right decision
 14 days before joining | make hires feel needed
-1 day before joining | make hires feel welcome
-first day | make hires feel there is a plan
+1 day before joining | make hires feel there is a plan
+first day | make hires feel welcome
 after first week | make hires feel they get the help that they need
 after first month | -
