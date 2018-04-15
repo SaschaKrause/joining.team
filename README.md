@@ -1,4 +1,7 @@
-# joining.team
+# Joining.Team
+
+
+Onboarding new employees to a team or company is
 
 
 ### Why is having a awesome onboarding process for new employees critical?
@@ -20,6 +23,8 @@
 - [5 companies with a unique onboarding process and what makes them successful](https://zipschedules.com/5-companies-unique-onboarding-process-makes-successful.html)
 - [Onboarding Success](https://newtohr.com/onboarding-success/)
 - [5 Steps to Creating the Perfect Employee Onboarding Experience](https://www.huffingtonpost.com/gregory-ciotti/6-steps-to-creating-the-p_b_11208100.html)
+- [Onboarding Checklist examples](https://www.pinterest.com/pin/297870962828518662/)
+
 
 ---
 
@@ -34,3 +39,17 @@ LinkedIn | [3 Things LinkedIn Does to Turn New Hires Into Engaged Employees](htt
 Precolate | [Onboarding at Precolate](https://blog.percolate.com/2014/04/onboarding-at-percolate/) ; [The 7 Steps Behind One Company’s Steal-Worthy Onboarding Process](https://business.linkedin.com/talent-solutions/blog/onboarding/2016/the-7-steps-behind-one-companys-steal-worthy-onboarding-process)| .
 Pinterest | [What's the first day experience like for new hires at Pinterest?](https://www.quora.com/Whats-the-first-day-experience-like-for-new-hires-at-Pinterest?__hstc=101466014.94f0531adf1de0d0619fb2d58942a023.1479811623594.1480532378172.1480535177246.4&__hssc=101466014.1.1480535177246&__hsfp=1615075144)| .
 Twitter | [What is the on-boarding process for new employees at Twitter?](https://www.quora.com/What-is-the-on-boarding-process-for-new-employees-at-Twitter/answer/Alex-McCauley?__hstc=101466014.94f0531adf1de0d0619fb2d58942a023.1479811623594.1479811623594.1480516632408.2&__hssc=101466014.1.1480516632408&__hsfp=1615075144)| .
+
+
+## Conclusion
+
+### Timeline structure
+
+Timeline | Goal
+--- | ---
+after contract signed | make hires feel that signing the contract was the right decision
+14 days before joining | make hires feel needed
+1 day before joining | make hires feel welcome
+first day | make hires feel there is a plan
+after first week | make hires feel they get the help that they need
+after first month | -
