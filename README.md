@@ -43,7 +43,7 @@ Twitter | [What is the on-boarding process for new employees at Twitter?](https:
 
 ## Conclusion
 
-After reviewing all above materials of how other successful companies are doing their onboarding and how experts in this field see onboarding in general comes now a conclusion of what exactly companies should do to make onboarding new employee a success.
+After reviewing all above materials of how other successful companies are doing their onboarding and how experts in this field see onboarding in general comes now a conclusion of what exactly companies should do to make onboarding new employees a success.
 
 ### Timeline structure
 
