@@ -26,6 +26,29 @@ Onboarding new employees to a team or company is
 - [Onboarding Checklist examples](https://www.pinterest.com/pin/297870962828518662/)
 
 
+<!-- START OF README-JOB SECTION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</div>
+<h1 align="center">ReadMe-Jobs</h1>
+<p align="center">
+  <img src="https://s3.eu-central-1.amazonaws.com/readme-jobs.com/meta/devs-doing-charity.png">
+  <br />
+  We help raising money for charity with this repository by promoting interesting developer jobs right in this readme. 
+  <br />
+  You can learn more about his here. 
+<p>
+<p align="center">
+  <a href="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/1/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/1/ad" width="270"></a>
+  <a href="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/2/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/2/ad" width="270"></a>
+  <a href="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/3/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/3/ad" width="270"></a>
+<p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</div>
+<br />
+<!-- END OF README-JOB SECTION -->
+
 ---
 
 ### Successful Companies and their Onboarding Strategies
