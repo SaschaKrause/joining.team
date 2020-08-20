@@ -30,18 +30,17 @@ Onboarding new employees to a team or company is
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
-<h1 align="center">ReadMe-Jobs</h1>
 <p align="center">
-  <img src="https://s3.eu-central-1.amazonaws.com/readme-jobs.com/meta/devs-doing-charity.png">
+  <img src="http://static.readme-jobs.com/meta/badge.png?q=1" width="327">
   <br />
-  We help raising money for charity with this repository by promoting interesting developer jobs right in this readme. 
+  This section promotes developer jobs and contributes in sponsoring this open source project. Learn more about it <b><a href="https://readme-jobs.com">here</a></b>.
   <br />
-  You can learn more about his here. 
+  The promoted jobs refresh every hour.
 <p>
 <p align="center">
-  <a href="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/1/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/1/ad" width="270"></a>
-  <a href="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/2/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/2/ad" width="270"></a>
-  <a href="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/3/link" target="_blank"><img src="https://readme-jobs-backend.herokuapp.com/rmj-joining.team/3/ad" width="270"></a>
+  <a href="https://fetch.readme-jobs.com/rmj-jt/1/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-jt/1/ad" width="270"></a>
+  <a href="https://fetch.readme-jobs.com/rmj-jt/2/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-jt/2/ad" width="270"></a>
+  <a href="https://fetch.readme-jobs.com/rmj-jt/3/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-jt/3/ad" width="270"></a>
 <p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
