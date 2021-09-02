@@ -26,29 +26,6 @@ Onboarding new employees to a team or company is
 - [Onboarding Checklist examples](https://www.pinterest.com/pin/297870962828518662/)
 
 
-<!-- START OF README-JOB SECTION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</div>
-<h1 align="center">README-Jobs</h1>
-<p align="center">
-  <img src="http://static.readme-jobs.com/meta/badge.png?q=1" width="327">
-  <br />
-  This section promotes developer jobs and contributes in sponsoring this open source project. Learn more about it <b><a href="https://readme-jobs.com">here</a></b>.
-  <br />
-  The promoted jobs refresh every hour.
-<p>
-<p align="center">
-  <a href="https://fetch.readme-jobs.com/rmj-jt/1/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-jt/1/ad" width="270"></a>
-  <a href="https://fetch.readme-jobs.com/rmj-jt/2/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-jt/2/ad" width="270"></a>
-  <a href="https://fetch.readme-jobs.com/rmj-jt/3/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-jt/3/ad" width="270"></a>
-<p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</div>
-<br />
-<!-- END OF README-JOB SECTION -->
-
 ---
 
 ### Successful Companies and their Onboarding Strategies
